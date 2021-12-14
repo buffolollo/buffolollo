@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buffolollo
 - 👀 I’m interested in JavaScript and C++
-- 🌱 I’m currently learning JavaScipt
+- 🌱 I’m currently learning an npm library to create discord bots: "discord.js"
 - 📫 How to reach me on discord: buffolollo#3713
 - 🌆 Join my discord server! https://discord.gg/FHDYSE6kn7
 
