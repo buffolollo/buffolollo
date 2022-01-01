@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @buffolollo
 - 👀 I’m interested in JavaScript and C++
-- 🌱 I’m currently creating discord bots wwith an npm library: "discord.js"
+- 🌱 I’m currently creating discord bots with an npm library: "discord.js"
 - 📫 How to reach me on discord: buffolollo#3713
-- 🌆 Join my discord server! https://discord.gg/FHDYSE6kn7
+- 🌆 Join my discord server! https://discord.gg/gN6rEh96tc
 
 <!---
 buffolollo/buffolollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
