@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently creating discord bots with an npm library: "discord.js"
 - 📫 How to reach me on discord: buffolollo#3713
-- 🌆 Join my discord server! https://discord.gg/gN6rEh96tc
+- 🌆 Join my discord server! https://discord.gg/Ja4KXbXPgz
 
 <!---
 buffolollo/buffolollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
