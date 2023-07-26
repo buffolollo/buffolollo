@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buffolollo
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently creating discord bots with an npm library: "discord.js"
-- 📫 How to reach me on discord: buffolollo#3713
+- 👀 I’m interested in TypeScript / JavaScript
+- 🌱 I’m currently creating discord bots with the discordjs library
+- 📫 How to reach me on discord: buffolollo
 - 🌆 Join my discord server! https://discord.gg/Ja4KXbXPgz
 
 <!---
