@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @buffolollo
-- 👀 I’m interested in TypeScript / JavaScript
+- 👀 I’m interested in TypeScript / JavaScript / C++
 - 🌱 I’m currently creating discord bots with the discordjs library
 - 📫 How to reach me on discord: buffolollo
 - 🌆 Join my discord server! https://discord.gg/Ja4KXbXPgz
