@@ -82,3 +82,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     </a>
 </p>
+
+<p>i hate python</p>
